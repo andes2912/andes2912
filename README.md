@@ -1,9 +1,10 @@
 ### Hi there, I'm Andri Desmana - aka [andes2912][website] 👋
 
-[![Website](https://img.shields.io/website?label=andridesmana.pw&style=for-the-badge&url=https%3A%2F%2Fandridesmana.pw)](https://andridesmana.pw)
-[![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fandri_desmanar&screen_name=andri_desmana)
-
-## I'm a Developer and Freelance!!
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
+![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)
+![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)
+## I'm a web developer from Jakarta, Indonesia !
 
 - 🌱 I’m currently learning VueJS and Flutter
 - 👯 I’m looking to collaborate with other developer
@@ -31,19 +32,11 @@
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-<br /> <br />
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
+<br />
 
-</details>
+#### 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=andes2912)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
