@@ -37,7 +37,14 @@
 #### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=andes2912)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br />
+<br/>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912" />
+
+</details>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="andes2912 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andes2912&show_icons=true&hide_border=true" />
