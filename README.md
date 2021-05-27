@@ -33,23 +33,19 @@
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-<br />
+<br /> <br/>
 
-#### 🏆 Trophy
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=andes2912)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=andes2912&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=andes2912&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
+---
 
-<br/>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="center" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912&layout=compact"/>
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="andes2912 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andes2912&show_icons=true" />
-</details>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=andes2912&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912&layout=compact" />
+</div>
 
 [website]: https://andridesmana.pw
 [twitter]: https://twitter.com/andri_desmana
