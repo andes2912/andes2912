@@ -37,7 +37,7 @@
 
 #### 🏆 Trophy
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=andes2912)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andes2912&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>
