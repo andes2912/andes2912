@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)][website]
 ## I'm a web developer from Jakarta, Indonesia !
 
-- 🌱 I’m currently learning VueJS and Flutter
+- 🌱 I’m currently learning Laravel & VueJS
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play games
