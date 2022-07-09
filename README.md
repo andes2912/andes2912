@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912&layout=compact" />
 </div>
 
-[website]: https://andridesmana.pw
+[website]: https://andridesmana.vercel.app/
 [twitter]: https://twitter.com/andri_desmana
 [instagram]: https://instagram.com/andridesmana
 [linkedin]: https://linkedin.com/in/andri-desmana
