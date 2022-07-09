@@ -3,7 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
-[![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)][website]
+[![Website](https://img.shields.io/website?color=blue&label=andridesmana.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.vercel.app)][website]
 ## I'm a web developer from Jakarta, Indonesia !
 
 - 🌱 I’m currently learning Laravel & VueJS
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andridesmana.pw" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://andridesmana.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="andri_desmana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="andri-desmana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="andridesmana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
