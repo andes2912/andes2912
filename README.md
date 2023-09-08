@@ -1,16 +1,18 @@
+
+<img src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png">
 ### Hi there, I'm Andri Desmana - aka [andes2912][website] 👋
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
 [![Website](https://img.shields.io/website?color=blue&label=andridesmana.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.vercel.app)][website]
-[![wakatime](https://wakatime.com/badge/user/59b1710c-4294-4e8b-984e-6edcd1ec6092.svg)](https://wakatime.com/@59b1710c-4294-4e8b-984e-6edcd1ec6092)
+
 
 ## I'm a web developer from Jakarta, Indonesia !
 
-- 🌱 I’m currently learning Laravel & VueJS
+- 🌱 I’m currently learning Laravel & Flutter
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play games
 
 ### Connect with me:
@@ -21,6 +23,9 @@
 [<img align="left" alt="andridesmana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### CODING ACTIVITY 👨🏻‍💻
+[![wakatime](https://wakatime.com/badge/user/59b1710c-4294-4e8b-984e-6edcd1ec6092.svg)](https://wakatime.com/@59b1710c-4294-4e8b-984e-6edcd1ec6092)
 
 ### Languages and Tools:
 
