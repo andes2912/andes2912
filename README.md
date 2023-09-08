@@ -4,6 +4,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
 [![Website](https://img.shields.io/website?color=blue&label=andridesmana.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.vercel.app)][website]
+[![wakatime](https://wakatime.com/badge/user/59b1710c-4294-4e8b-984e-6edcd1ec6092.svg)](https://wakatime.com/@59b1710c-4294-4e8b-984e-6edcd1ec6092)
+
 ## I'm a web developer from Jakarta, Indonesia !
 
 - 🌱 I’m currently learning Laravel & VueJS
