@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png">
-### Hi there, I'm Andri Desmana - aka [andes2912][website] 👋
+### Hi there, I'm Andri Desmana - aka andes2912 👋
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
